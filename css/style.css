@@ -1,0 +1,70 @@
+.navbar {
+    display: inline;
+    
+}
+.navbar a{ 
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.download-btn:hover {
+  background-color: #218838;
+}
+
+.project-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.project-btn:hover {
+  background-color: #218838;
+}
+
+#about-me {
+  position: relative;
+  top: 200px;
+  left: 100px;
+  width: 600px;
+  border-style: dotted;
+
+}
+#resume-list {
+  margin-top: 100px;
+}
+
+.resume-tab {
+  border-style: solid;
+  padding: 20px;
+  text-align: center;
+}
+
+#education {
+background-color:#FFF4A3;
+}
+
+#work {
+  background-color:#FFC0C7
+}
+
+#skills {
+  background-color:#D9EEE1
+}
+
+
